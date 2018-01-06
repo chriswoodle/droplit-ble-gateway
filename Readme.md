@@ -87,4 +87,8 @@ gulp build
 gulp debug
 ```
 
-![Youtube](https://youtu.be/E2czFbtm1LA)
+In the droplit.io portal, when your Arudino 101 connects, you should be able to controll its led by setting the `BinarySwitch.switch` value or calling `BinarySwitch.switchOn()` / `BinarySwitch.switchOff()`.
+
+![portal](/images/portal.png)
+
+[See it in action here](https://youtu.be/E2czFbtm1LA)
