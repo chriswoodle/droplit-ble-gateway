@@ -1,6 +1,6 @@
 # BLE IoT Gateway
 
-Build your BLE IoT Application with cloud and cellular support!
+Build your BLE IoT Application with cloud and cellular connectivity!
 
 # Overview
 
