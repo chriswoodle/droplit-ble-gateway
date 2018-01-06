@@ -16,7 +16,6 @@ There are two test applications provides in the `noble-test` folder which allow 
 * Connectivity: [Hologram Nova](https://store.arduino.cc/usa/arduino-101)
 > Other hardware devices that [Noble](https://github.com/sandeepmistry/noble) and [Droplit.io Edge](https://github.com/droplit/droplit.io-edge) supports are also acceptable, such as other Raspberry Pi devices with BLE radios. 
 
-
 # Starting from scratch
 
 Before you fire up your Raspberry Pi and Arduino's, get familiar with the Droplit.io Platform by looking through the [documentation](https://docs.droplit.io/) and create a free developer account on the [droplit.io developer portal](https://portal.droplit.io). In the portal, there a few guides/tutorials to get you started.
@@ -33,10 +32,9 @@ After installing the board support package through the Arduino IDE and selecting
 
 Upload the `LED` example to the Arduino 101.
 
-
 ![101 test](/images/101sketch.png)
 
-You can test the Arduino 101 by sending `0x00` and `0x01` data through the nRF Connect mobile app to turn on and off the Arduino 101's user accessable LED .
+You can test the Arduino 101 by sending `0x00` and `0x01` data through the nRF Connect mobile app to turn on and off the Arduino 101's user accessible LED .
 
 ![nrf connect](/images/nrfconnect.jpg)
 
@@ -45,7 +43,7 @@ You can test the Arduino 101 by sending `0x00` and `0x01` data through the nRF C
 Before using a cellular connection, you may want to test the Raspberry Pi on a local network connection.
 > On the Raspberry Pi Zero W, you may encounter connectivity issues when using both WiFi and Bluetooth at the same time.
 
-First make sure your Raspbery Pi has NodeJs installed. You can install node by following this guide [here](https://docs.droplit.io/docs/install-nodejs-on-linux). You will need the `arm-v6` release of node.
+First make sure your Raspberry Pi has NodeJs installed. You can install node by following this guide [here](https://docs.droplit.io/docs/install-nodejs-on-linux). You will need the `arm-v6` release of node.
 
 After installing node, make sure you [configure the npm global install directory](https://docs.droplit.io/docs/install-nodejs-on-linux#installing-node-modules-globally-linux-desktop-emb).
 
