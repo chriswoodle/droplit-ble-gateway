@@ -28,11 +28,11 @@ Arduino provides a getting started guide [here](https://www.arduino.cc/en/Guide/
 
 After installing the board support package through the Arduino IDE and selecting Arduino 101 as your board target.
 
-![101 select](/images/101select.png)
+![101 select](/images/101Select.png)
 
 Upload the `LED` example to the Arduino 101.
 
-![101 test](/images/101sketch.png)
+![101 test](/images/101Sketch.png)
 
 You can test the Arduino 101 by sending `0x00` and `0x01` data through the nRF Connect mobile app to turn on and off the Arduino 101's user accessible LED .
 
