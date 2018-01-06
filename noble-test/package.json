@@ -1,0 +1,17 @@
+{
+  "name": "noble-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "author": "Chris Woodle",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Chris Woodle",
+      "email": "chris@droplit.io"
+    }
+  ],
+  "dependencies": {
+    "noble": "^1.8.1"
+  }
+}

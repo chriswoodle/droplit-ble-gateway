@@ -1,0 +1,14 @@
+{
+    "droplit-plugin": {},
+    "droplit-edge-sample-ble-plugin": {
+        "dependencies": [
+            "droplit-plugin"
+        ]
+    },
+    "droplit-edge": {
+        "dependencies": [
+            "droplit-plugin",
+            "droplit-edge-sample-ble-plugin"
+        ]
+    }
+}

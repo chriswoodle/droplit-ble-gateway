@@ -1,0 +1,20 @@
+{
+  "name": "droplit-edge-sample-ble-plugin",
+  "description": "Example Droplit Edge server Bluetooth plugin",
+  "author": "Chris Woodle",
+  "version": "1.0.0",
+  "private": false,
+  "contributors": [
+    {
+      "name": "Chris Woodle",
+      "email": "chris@droplit.io"
+    }
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "droplit-plugin": "../droplit-plugin",
+    "noble": "^1.8.1"
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}

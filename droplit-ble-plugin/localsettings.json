@@ -1,0 +1,14 @@
+{
+ "transport": {
+        "host": "wss://edge-ws.droplit.io/edge"
+    },
+    "ecosystemId": "YOUR_ECOSYSTEM_ID_HERE",
+    "plugins": {
+        "droplit-edge-sample-ble-plugin": {
+            "enabled": true
+        }
+    },
+    "config": {
+        "LinuxNetInterfaceOverride": "wlan0"
+    }
+}
