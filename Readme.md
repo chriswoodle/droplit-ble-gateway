@@ -1,10 +1,10 @@
 # BLE IoT Gateway
 
-Build your BLE IoT Application with cloud and cellular connectivity!
+Build your BLE IoT Application with cloud control and cellular connectivity!
 
 # Overview
 
-In this repo, an example ble plugin is provided which connects to Arduino 101 boards and allows you to turn on/off the LED through the Droplit.io Rest API.
+In this repo, an example ble plugin is provided which connects to Arduino 101 boards and allows you to turn on/off the LED through the Droplit.io Rest API. This plugin is intened to be a starting ponint for a BLE device plugin integration.
 
 There are two test applications provides in the `noble-test` folder which allow you to confirm that node can interface with BLE devices.
 
